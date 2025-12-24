@@ -12,7 +12,7 @@ from datetime import datetime
 # 1. Initialize Firebase
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': "https://face-recognition-model-3c9e5-default-rtdb.firebaseio.com/"
+    'databaseURL': "***************"
 })
 
 cap = cv2.VideoCapture(0)
