@@ -13,3 +13,6 @@ An automated attendance system using Python, OpenCV, and Firebase.
 3. Add your own `serviceAccountKey.json`.
 4. Run `main.py`.
 
+## Demo Video
+
+[📥 Download Demo Video](https://github.com/princeshivhare-star/face-recognition-system1/releases/download/v1.0/project.face.recognition.demo.mp4)
